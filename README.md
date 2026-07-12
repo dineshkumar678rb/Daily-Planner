@@ -24,9 +24,7 @@ A responsive Daily Planner web application designed to help users organize their
 - CSS
 - JavaScript
 
-## 📸 Screenshots
 
-> Add screenshots here.
 
 ## 🚀 How to Run
 
