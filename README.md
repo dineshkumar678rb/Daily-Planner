@@ -1,2 +1,35 @@
-# Daily-Planner
-Designed and developed a productivity-focused task management application with support for task creation, editing, deletion, due dates, priority management, and responsive design to improve daily organization.
+
+---
+
+# 3. Daily Planner
+
+```markdown
+# 📅 Daily Planner
+
+A responsive Daily Planner web application designed to help users organize their daily tasks efficiently.
+
+## ✨ Features
+
+- Add new tasks
+- Edit tasks
+- Delete tasks
+- Mark tasks as completed
+- Task priority
+- Due dates
+- Responsive interface
+
+## 🛠 Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+
+## 📸 Screenshots
+
+> Add screenshots here.
+
+## 🚀 How to Run
+
+Simply download or clone the repository and open **index.html** in your browser.
+
+## Folder Structure
