@@ -30,4 +30,4 @@ A responsive Daily Planner web application designed to help users organize their
 
 Simply download or clone the repository and open **index.html** in your browser.
 
-## Folder Structure
+
